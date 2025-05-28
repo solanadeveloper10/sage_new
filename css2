@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Six Caps';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/sixcaps/v21/6ae_4KGrU7VR7bNmabcS.ttf) format('truetype');
+}
